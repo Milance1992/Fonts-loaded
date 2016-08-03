@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'opensans-regular';
+  src: url('../fonts/opensans-regular-webfont.woff2') format('woff2');
+}
+
+html {
+	font-family: cursive;
+}
+
+.fonts-loaded {
+	font-family: 'opensans-regular';
+}
+
+
+
+
+
+
+
+
+
+p {
+	font-size: 22px;
+	color: red;
+}
+.container {
+	width: 50%;
+	display: block;
+	margin: 0 auto;
+}
